@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+Hello lan 2
+=======
+Hello lan 1
+>>>>>>> NhanhB
